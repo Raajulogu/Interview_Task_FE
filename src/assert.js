@@ -1,3 +1,3 @@
-let asserts={api_url:"http://localhost:6060/api"}
+let asserts={api_url:"https://interview-task-be.vercel.app/api"}
 
 export default asserts;
